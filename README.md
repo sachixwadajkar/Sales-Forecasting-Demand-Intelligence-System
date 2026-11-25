@@ -97,4 +97,4 @@ SupplyPulse helps retail teams understand historical sales performance, anticipa
 
 ## Author
 
-**Shubham Meena**
+**Sachi Wadajkar**
